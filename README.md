@@ -12,7 +12,7 @@ $ gradle compileJava
 ```
 
 Ejecución de los test
-Se debe ejecutar los runners del proyecto -> CruiseSearchTest.Java
+Se debe ejecutar los runners del proyecto -> FlightSearchTest.Java
 
 Configurar IntelliJ para que navegar de los pasos del .Feature a su respectivo Definition
 Ir a las siguietes opciones FILE -> SETTINGS -> PLUGINS
